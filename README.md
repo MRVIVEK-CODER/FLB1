@@ -24,6 +24,8 @@ pip2 install mechanize
 pip install lolcat
 
 rm -rf FLB1
+
+
 git clone https://github.com/MRVIVEK-CODER/FLB1.git
  
 cd FLB1
